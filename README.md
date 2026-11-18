@@ -20,3 +20,7 @@ python3 build-feed.py
 将语言文件和生成的 [today-phrases.json](today-phrases.json) 一起提交到 `main`。App 只下载合并文件一次并缓存。常用标签为 `health`、`life`、`uplifting`、`general`、`spring`、`summer`、`autumn`、`winter` 和 `mid-autumn`。天气标签供以后使用。
 
 唐诗宋词部分来自 [chinese-poetry](https://github.com/chinese-poetry/chinese-poetry)。上游数据整理的 [MIT 授权声明](chinese-poetry-LICENSE.txt) 随库保留。其他条目的来源与权利依据记录在各自的数据里。
+
+日语新增俳句取自松山市・子規記念博物館的[正岡子規の俳句（季節別）](https://www.city.matsuyama.ehime.jp/shisei/opendata/metadata/shikihaiku.html)，数据按 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 提供。这里按季节和主题筛选，保留俳句原文及原始目录编号。
+
+英语新增诗句选自 Project Gutenberg 收录的历史诗集，包括 [The Golden Treasury](https://www.gutenberg.org/ebooks/32373)、[Poems of Cheer](https://www.gutenberg.org/ebooks/3238) 和[朗费罗诗集](https://www.gutenberg.org/ebooks/1365)。逐条记录作者、诗集和来源链接。新增内容按长度、主题和用词筛选并去重。
