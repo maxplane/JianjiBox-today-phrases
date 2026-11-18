@@ -1,0 +1,103 @@
+[
+  {
+    "text": "A host, of golden daffodils;",
+    "author": "William Wordsworth",
+    "work": "I Wandered Lonely as a Cloud",
+    "source": "https://www.gutenberg.org/ebooks/8774",
+    "rights": "English original, first published in 1807; author died in 1850.",
+    "tags": [
+      "spring"
+    ]
+  },
+  {
+    "text": "Shall I compare thee to a summer’s day?",
+    "author": "William Shakespeare",
+    "work": "Sonnet 18",
+    "source": "https://www.gutenberg.org/ebooks/1041",
+    "rights": "English original, first published in 1609; author died in 1616.",
+    "tags": [
+      "summer"
+    ]
+  },
+  {
+    "text": "Season of mists and mellow fruitfulness!",
+    "author": "John Keats",
+    "work": "To Autumn",
+    "source": "https://www.gutenberg.org/files/19221/19221-h/19221-h.htm",
+    "rights": "English original, first published in 1820; author died in 1821.",
+    "tags": [
+      "autumn",
+      "weather:fog"
+    ]
+  },
+  {
+    "text": "When icicles hang by the wall",
+    "author": "William Shakespeare",
+    "work": "Love’s Labour’s Lost, Act V, Scene II",
+    "source": "https://www.gutenberg.org/ebooks/1510",
+    "rights": "English original, printed in 1598; author died in 1616.",
+    "tags": [
+      "winter"
+    ]
+  },
+  {
+    "text": "Rest belongs on the to-do list, too.",
+    "author": "JianjiBox",
+    "work": "Today phrases",
+    "source": "https://github.com/maxplane/JianjiBox-today-phrases",
+    "rights": "Original editorial text by JianjiBox.",
+    "tags": [
+      "health"
+    ]
+  },
+  {
+    "text": "Leave yourself a little breathing room.",
+    "author": "JianjiBox",
+    "work": "Today phrases",
+    "source": "https://github.com/maxplane/JianjiBox-today-phrases",
+    "rights": "Original editorial text by JianjiBox.",
+    "tags": [
+      "health"
+    ]
+  },
+  {
+    "text": "Some days, showing up is enough.",
+    "author": "JianjiBox",
+    "work": "Today phrases",
+    "source": "https://github.com/maxplane/JianjiBox-today-phrases",
+    "rights": "Original editorial text by JianjiBox.",
+    "tags": [
+      "life"
+    ]
+  },
+  {
+    "text": "The first wealth is health.",
+    "author": "Ralph Waldo Emerson",
+    "work": "Power, The Conduct of Life",
+    "source": "https://emersoncentral.com/texts/the-conduct-of-life/power/",
+    "rights": "Original English text, first published in 1860.",
+    "tags": [
+      "health"
+    ]
+  },
+  {
+    "text": "Nothing great was ever achieved without enthusiasm.",
+    "author": "Ralph Waldo Emerson",
+    "work": "Circles, Essays: First Series",
+    "source": "https://emersoncentral.com/texts/essays-first-series/circles/",
+    "rights": "Original English text, first published in 1841.",
+    "tags": [
+      "life"
+    ]
+  },
+  {
+    "text": "Health and cheerfulness mutually beget each other.",
+    "author": "John Hamilton Moore (compiler)",
+    "work": "The Young Gentleman and Lady’s Monitor",
+    "source": "https://www.gutenberg.org/ebooks/13588",
+    "rights": "Excerpt from an eighteenth-century English anthology; compiler credited as source.",
+    "tags": [
+      "health"
+    ]
+  }
+]

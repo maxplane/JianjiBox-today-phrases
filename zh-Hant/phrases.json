@@ -1,0 +1,1388 @@
+[
+  {
+    "text": "春眠不覺曉，處處聞啼鳥。——孟浩然",
+    "author": "孟浩然",
+    "work": "春曉",
+    "source": "https://github.com/chinese-poetry/chinese-poetry",
+    "rights": "古典原文，作者逝世逾百年。来源数据项目标注 MIT。",
+    "tags": [
+      "spring"
+    ]
+  },
+  {
+    "text": "好雨知時節，當春乃發生。——杜甫",
+    "author": "杜甫",
+    "work": "春夜喜雨",
+    "source": "https://github.com/chinese-poetry/chinese-poetry",
+    "rights": "古典原文，作者逝世逾百年。来源数据项目标注 MIT。",
+    "tags": [
+      "spring",
+      "weather:rain"
+    ]
+  },
+  {
+    "text": "小荷才露尖尖角，早有蜻蜓立上頭。——楊萬里",
+    "author": "楊萬里",
+    "work": "小池",
+    "source": "https://github.com/chinese-poetry/chinese-poetry",
+    "rights": "古典原文，作者逝世逾百年。来源数据项目标注 MIT。",
+    "tags": [
+      "summer"
+    ]
+  },
+  {
+    "text": "接天蓮葉無窮碧，映日荷花別樣紅。——楊萬里",
+    "author": "楊萬里",
+    "work": "曉出淨慈寺送林子方",
+    "source": "https://github.com/chinese-poetry/chinese-poetry",
+    "rights": "古典原文，作者逝世逾百年。来源数据项目标注 MIT。",
+    "tags": [
+      "summer",
+      "weather:clear"
+    ]
+  },
+  {
+    "text": "停車坐愛楓林晚，霜葉紅於二月花。——杜牧",
+    "author": "杜牧",
+    "work": "山行",
+    "source": "https://github.com/chinese-poetry/chinese-poetry",
+    "rights": "古典原文，作者逝世逾百年。来源数据项目标注 MIT。",
+    "tags": [
+      "autumn"
+    ]
+  },
+  {
+    "text": "湖光秋月兩相和，潭面無風鏡未磨。——劉禹錫",
+    "author": "劉禹錫",
+    "work": "望洞庭",
+    "source": "https://github.com/chinese-poetry/chinese-poetry",
+    "rights": "古典原文，作者逝世逾百年。来源数据项目标注 MIT。",
+    "tags": [
+      "autumn",
+      "weather:clear"
+    ]
+  },
+  {
+    "text": "晚來天欲雪，能飲一杯無？——白居易",
+    "author": "白居易",
+    "work": "問劉十九",
+    "source": "https://github.com/chinese-poetry/chinese-poetry",
+    "rights": "古典原文，作者逝世逾百年。来源数据项目标注 MIT。",
+    "tags": [
+      "winter",
+      "weather:snow"
+    ]
+  },
+  {
+    "text": "遙知不是雪，為有暗香來。——王安石",
+    "author": "王安石",
+    "work": "梅花",
+    "source": "https://github.com/chinese-poetry/chinese-poetry",
+    "rights": "古典原文，作者逝世逾百年。来源数据项目标注 MIT。",
+    "tags": [
+      "winter"
+    ]
+  },
+  {
+    "text": "但願人長久，千里共嬋娟。——蘇軾",
+    "author": "蘇軾",
+    "work": "水調歌頭·明月幾時有",
+    "source": "https://github.com/chinese-poetry/chinese-poetry",
+    "rights": "古典原文，作者逝世逾百年。来源数据项目标注 MIT。",
+    "tags": [
+      "mid-autumn"
+    ]
+  },
+  {
+    "text": "今夜月明人盡望，不知秋思落誰家。——王建",
+    "author": "王建",
+    "work": "十五夜望月寄杜郎中",
+    "source": "https://github.com/chinese-poetry/chinese-poetry",
+    "rights": "古典原文，作者逝世逾百年。来源数据项目标注 MIT。",
+    "tags": [
+      "mid-autumn"
+    ]
+  },
+  {
+    "text": "春風得意馬蹄疾，一日看盡長安花。——孟郊",
+    "author": "孟郊",
+    "work": "登科後",
+    "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E5%85%A8%E5%94%90%E8%AF%97/poet.tang.19000.json",
+    "rights": "古典原文；来源数据 MIT（JackeyGao，2016）",
+    "tags": [
+      "spring",
+      "uplifting"
+    ]
+  },
+  {
+    "text": "莫愁前路無知己，天下誰人不識君。——高適",
+    "author": "高適",
+    "work": "別董大二首 一",
+    "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E5%85%A8%E5%94%90%E8%AF%97/poet.tang.10000.json",
+    "rights": "古典原文；来源数据 MIT（JackeyGao，2016）",
+    "tags": [
+      "uplifting"
+    ]
+  },
+  {
+    "text": "大鵬一日同風起，摶搖直上九萬里。——李白",
+    "author": "李白",
+    "work": "上李邕",
+    "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E5%85%A8%E5%94%90%E8%AF%97/poet.tang.8000.json",
+    "rights": "古典原文；来源数据 MIT（JackeyGao，2016）",
+    "tags": [
+      "uplifting"
+    ]
+  },
+  {
+    "text": "仰天大笑出門去，我輩豈是蓬蒿人。——李白",
+    "author": "李白",
+    "work": "南陵別兒童入京",
+    "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E5%85%A8%E5%94%90%E8%AF%97/poet.tang.8000.json",
+    "rights": "古典原文；来源数据 MIT（JackeyGao，2016）",
+    "tags": [
+      "uplifting"
+    ]
+  },
+  {
+    "text": "長風破浪會有時，直挂雲帆濟滄海。——李白",
+    "author": "李白",
+    "work": "雜曲歌辭 行路難三首 一",
+    "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E5%85%A8%E5%94%90%E8%AF%97/poet.tang.1000.json",
+    "rights": "古典原文；来源数据 MIT（JackeyGao，2016）",
+    "tags": [
+      "uplifting"
+    ]
+  },
+  {
+    "text": "晴空一鶴排雲上，便引詩情到碧霄。——劉禹錫",
+    "author": "劉禹錫",
+    "work": "秋詞二首 一",
+    "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E5%85%A8%E5%94%90%E8%AF%97/poet.tang.19000.json",
+    "rights": "古典原文；来源数据 MIT（JackeyGao，2016）",
+    "tags": [
+      "uplifting"
+    ]
+  },
+  {
+    "text": "莫道桑榆晚，微霞尚滿天。——劉禹錫",
+    "author": "劉禹錫",
+    "work": "詶樂天詠老見示",
+    "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E5%85%A8%E5%94%90%E8%AF%97/poet.tang.18000.json",
+    "rights": "古典原文；来源数据 MIT（JackeyGao，2016）",
+    "tags": [
+      "uplifting"
+    ]
+  },
+  {
+    "text": "千淘萬漉雖辛苦，吹盡狂沙始到金。——劉禹錫",
+    "author": "劉禹錫",
+    "work": "浪淘沙九首 八",
+    "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E5%85%A8%E5%94%90%E8%AF%97/poet.tang.19000.json",
+    "rights": "古典原文；来源数据 MIT（JackeyGao，2016）",
+    "tags": [
+      "uplifting"
+    ]
+  },
+  {
+    "text": "會當凌絕頂，一覽衆山小。——杜甫",
+    "author": "杜甫",
+    "work": "望嶽",
+    "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E5%85%A8%E5%94%90%E8%AF%97/poet.tang.10000.json",
+    "rights": "古典原文；来源数据 MIT（JackeyGao，2016）",
+    "tags": [
+      "uplifting"
+    ]
+  },
+  {
+    "text": "天生我材必有用，千金散盡還復來。——李白",
+    "author": "李白",
+    "work": "鼓吹曲辭 將進酒",
+    "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E5%85%A8%E5%94%90%E8%AF%97/poet.tang.0.json",
+    "rights": "古典原文；来源数据 MIT（JackeyGao，2016）",
+    "tags": [
+      "uplifting"
+    ]
+  },
+  {
+    "text": "一溝泛碧流春水，四面瓊鉤搭綺疏。——花蕊夫人徐氏",
+    "author": "花蕊夫人徐氏",
+    "work": "宮詞 三十二",
+    "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E5%85%A8%E5%94%90%E8%AF%97/poet.tang.43000.json",
+    "rights": "古典原文；来源数据 MIT（JackeyGao，2016）",
+    "tags": [
+      "spring"
+    ]
+  },
+  {
+    "text": "曉來山鳥散，雨過杏花稀。——姚合",
+    "author": "姚合",
+    "work": "山中述懷",
+    "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E5%85%A8%E5%94%90%E8%AF%97/poet.tang.26000.json",
+    "rights": "古典原文；来源数据 MIT（JackeyGao，2016）",
+    "tags": [
+      "spring"
+    ]
+  },
+  {
+    "text": "曉來枝上千般語，應共桃花說舊心。——齊己",
+    "author": "齊己",
+    "work": "早鶯",
+    "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E5%85%A8%E5%94%90%E8%AF%97/poet.tang.46000.json",
+    "rights": "古典原文；来源数据 MIT（JackeyGao，2016）",
+    "tags": [
+      "spring"
+    ]
+  },
+  {
+    "text": "隔門借問人誰在，一樹桃花笑不應。——豆盧岑",
+    "author": "豆盧岑",
+    "work": "句",
+    "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E5%85%A8%E5%94%90%E8%AF%97/poet.tang.50000.json",
+    "rights": "古典原文；来源数据 MIT（JackeyGao，2016）",
+    "tags": [
+      "spring"
+    ]
+  },
+  {
+    "text": "柳色舞春水，花陰香客衣。——李洞",
+    "author": "李洞",
+    "work": "野望",
+    "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E5%85%A8%E5%94%90%E8%AF%97/poet.tang.54000.json",
+    "rights": "古典原文；来源数据 MIT（JackeyGao，2016）",
+    "tags": [
+      "spring"
+    ]
+  },
+  {
+    "text": "遲於春日好於秋，野客相攜上釣舟。——陸龜蒙",
+    "author": "陸龜蒙",
+    "work": "新夏東郊閑泛有懷襲美",
+    "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E5%85%A8%E5%94%90%E8%AF%97/poet.tang.34000.json",
+    "rights": "古典原文；来源数据 MIT（JackeyGao，2016）",
+    "tags": [
+      "spring"
+    ]
+  },
+  {
+    "text": "東風變梅柳，萬彙生春光。——德宗皇帝",
+    "author": "德宗皇帝",
+    "work": "中和節賜羣臣宴賦七韻",
+    "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E5%85%A8%E5%94%90%E8%AF%97/poet.tang.0.json",
+    "rights": "古典原文；来源数据 MIT（JackeyGao，2016）",
+    "tags": [
+      "spring"
+    ]
+  },
+  {
+    "text": "摇扬杏花风，迟日淡阴双阙。——曾觌",
+    "author": "曾觌",
+    "work": "好事近",
+    "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E5%AE%8B%E8%AF%8D/ci.song.8000.json",
+    "rights": "古典原文；来源数据 MIT（JackeyGao，2016）",
+    "tags": [
+      "spring"
+    ]
+  },
+  {
+    "text": "何人教我吹長笛，與倚春風弄月明。——杜牧",
+    "author": "杜牧",
+    "work": "題元處士高亭",
+    "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E5%85%A8%E5%94%90%E8%AF%97/poet.tang.28000.json",
+    "rights": "古典原文；来源数据 MIT（JackeyGao，2016）",
+    "tags": [
+      "spring"
+    ]
+  },
+  {
+    "text": "春風淡蕩景悠悠，鶯囀高枝燕入樓。——張仲素",
+    "author": "張仲素",
+    "work": "漢苑行二首 二",
+    "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E5%85%A8%E5%94%90%E8%AF%97/poet.tang.19000.json",
+    "rights": "古典原文；来源数据 MIT（JackeyGao，2016）",
+    "tags": [
+      "spring"
+    ]
+  },
+  {
+    "text": "曉來急雨春風顛，睡美不聞鐘鼓傳。——杜甫",
+    "author": "杜甫",
+    "work": "偪仄行贈畢曜",
+    "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E5%85%A8%E5%94%90%E8%AF%97/poet.tang.10000.json",
+    "rights": "古典原文；来源数据 MIT（JackeyGao，2016）",
+    "tags": [
+      "spring"
+    ]
+  },
+  {
+    "text": "桃花有源水，可以保吾生。——李白",
+    "author": "李白",
+    "work": "秋夕書懷",
+    "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E5%85%A8%E5%94%90%E8%AF%97/poet.tang.8000.json",
+    "rights": "古典原文；来源数据 MIT（JackeyGao，2016）",
+    "tags": [
+      "spring"
+    ]
+  },
+  {
+    "text": "有情愿寄向南枝，图得洛阳春色看。——张先",
+    "author": "张先",
+    "work": "木兰花・玉楼春",
+    "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E5%AE%8B%E8%AF%8D/ci.song.0.json",
+    "rights": "古典原文；来源数据 MIT（JackeyGao，2016）",
+    "tags": [
+      "spring"
+    ]
+  },
+  {
+    "text": "稍抽蘭葉紫，微吐杏花紅。——柳道倫",
+    "author": "柳道倫",
+    "work": "賦得春風扇微和",
+    "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E5%85%A8%E5%94%90%E8%AF%97/poet.tang.18000.json",
+    "rights": "古典原文；来源数据 MIT（JackeyGao，2016）",
+    "tags": [
+      "spring"
+    ]
+  },
+  {
+    "text": "桃花春欲盡，穀雨夜來收。——崔國輔",
+    "author": "崔國輔",
+    "work": "奉和聖製上巳祓禊應制",
+    "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E5%85%A8%E5%94%90%E8%AF%97/poet.tang.5000.json",
+    "rights": "古典原文；来源数据 MIT（JackeyGao，2016）",
+    "tags": [
+      "spring"
+    ]
+  },
+  {
+    "text": "柳花飛處鶯聲急，晴街春色香車立。——牛嶠",
+    "author": "牛嶠",
+    "work": "菩薩蠻 二",
+    "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E5%85%A8%E5%94%90%E8%AF%97/poet.tang.49000.json",
+    "rights": "古典原文；来源数据 MIT（JackeyGao，2016）",
+    "tags": [
+      "spring"
+    ]
+  },
+  {
+    "text": "桃花迎駿馬，蘇合染輕裘。——韓翃",
+    "author": "韓翃",
+    "work": "寄贈虢州張參軍",
+    "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E5%85%A8%E5%94%90%E8%AF%97/poet.tang.12000.json",
+    "rights": "古典原文；来源数据 MIT（JackeyGao，2016）",
+    "tags": [
+      "spring"
+    ]
+  },
+  {
+    "text": "方從桂樹隱，不羨桃花源。——李白",
+    "author": "李白",
+    "work": "聞丹丘子於城北營石門幽居中有高鳳遺跡僕離羣遠懷亦有棲遁之志因敘舊以寄之",
+    "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E5%85%A8%E5%94%90%E8%AF%97/poet.tang.8000.json",
+    "rights": "古典原文；来源数据 MIT（JackeyGao，2016）",
+    "tags": [
+      "spring"
+    ]
+  },
+  {
+    "text": "春山煙欲收，天澹星稀小。——牛希濟",
+    "author": "牛希濟",
+    "work": "生查子 一",
+    "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E5%85%A8%E5%94%90%E8%AF%97/poet.tang.49000.json",
+    "rights": "古典原文；来源数据 MIT（JackeyGao，2016）",
+    "tags": [
+      "spring"
+    ]
+  },
+  {
+    "text": "昨夜東歸夢，桃花煖色中。——棲蟾",
+    "author": "棲蟾",
+    "work": "游邊",
+    "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E5%85%A8%E5%94%90%E8%AF%97/poet.tang.47000.json",
+    "rights": "古典原文；来源数据 MIT（JackeyGao，2016）",
+    "tags": [
+      "spring"
+    ]
+  },
+  {
+    "text": "紅桃處處春色，碧柳家家月明。——魚玄機",
+    "author": "魚玄機",
+    "work": "寓言",
+    "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E5%85%A8%E5%94%90%E8%AF%97/poet.tang.44000.json",
+    "rights": "古典原文；来源数据 MIT（JackeyGao，2016）",
+    "tags": [
+      "spring"
+    ]
+  },
+  {
+    "text": "東去有餘意，春風生賜衣。——錢起",
+    "author": "錢起",
+    "work": "送邊補闕東歸省覲",
+    "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E5%85%A8%E5%94%90%E8%AF%97/poet.tang.12000.json",
+    "rights": "古典原文；来源数据 MIT（JackeyGao，2016）",
+    "tags": [
+      "spring"
+    ]
+  },
+  {
+    "text": "夏雲亙百里，合沓遙相連。——劉長卿",
+    "author": "劉長卿",
+    "work": "關門望華山",
+    "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E5%85%A8%E5%94%90%E8%AF%97/poet.tang.7000.json",
+    "rights": "古典原文；来源数据 MIT（JackeyGao，2016）",
+    "tags": [
+      "summer"
+    ]
+  },
+  {
+    "text": "旋折荷花伴歌舞，夕陽斜照滿衣紅。——花蕊夫人徐氏",
+    "author": "花蕊夫人徐氏",
+    "work": "宮詞 二十五",
+    "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E5%85%A8%E5%94%90%E8%AF%97/poet.tang.43000.json",
+    "rights": "古典原文；来源数据 MIT（JackeyGao，2016）",
+    "tags": [
+      "summer"
+    ]
+  },
+  {
+    "text": "喜見夏日來，變爲松景清。——孟郊",
+    "author": "孟郊",
+    "work": "題從叔述靈巖山壁",
+    "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E5%85%A8%E5%94%90%E8%AF%97/poet.tang.19000.json",
+    "rights": "古典原文；来源数据 MIT（JackeyGao，2016）",
+    "tags": [
+      "summer"
+    ]
+  },
+  {
+    "text": "千峰鳥路含梅雨，五月蟬聲送麥秋。——李嘉祐",
+    "author": "李嘉祐",
+    "work": "句",
+    "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E5%85%A8%E5%94%90%E8%AF%97/poet.tang.49000.json",
+    "rights": "古典原文；来源数据 MIT（JackeyGao，2016）",
+    "tags": [
+      "summer"
+    ]
+  },
+  {
+    "text": "水泛芙蕖影，橋臨芳桂叢。——楊師道",
+    "author": "楊師道",
+    "work": "五言早秋[儀鸞殿]侍宴應詔",
+    "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E5%85%A8%E5%94%90%E8%AF%97/poet.tang.52000.json",
+    "rights": "古典原文；来源数据 MIT（JackeyGao，2016）",
+    "tags": [
+      "summer"
+    ]
+  },
+  {
+    "text": "獸皮裁褥暖，蓮葉製衣馨。——唐求",
+    "author": "唐求",
+    "work": "送友人江行之廬山肄業",
+    "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E5%85%A8%E5%94%90%E8%AF%97/poet.tang.40000.json",
+    "rights": "古典原文；来源数据 MIT（JackeyGao，2016）",
+    "tags": [
+      "summer"
+    ]
+  },
+  {
+    "text": "华堂清暑榕阴重，梦里江寒。——张元干",
+    "author": "张元干",
+    "work": "采桑子",
+    "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E5%AE%8B%E8%AF%8D/ci.song.3000.json",
+    "rights": "古典原文；来源数据 MIT（JackeyGao，2016）",
+    "tags": [
+      "summer"
+    ]
+  },
+  {
+    "text": "纖手折芙蕖，花灑羅衫濕。——顧非熊",
+    "author": "顧非熊",
+    "work": "採蓮詞",
+    "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E5%85%A8%E5%94%90%E8%AF%97/poet.tang.27000.json",
+    "rights": "古典原文；来源数据 MIT（JackeyGao，2016）",
+    "tags": [
+      "summer"
+    ]
+  },
+  {
+    "text": "炎炎夏日滿天時，桐葉交加覆玉墀。——王涯",
+    "author": "王涯",
+    "work": "宮詞三十首 十九",
+    "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E5%85%A8%E5%94%90%E8%AF%97/poet.tang.18000.json",
+    "rights": "古典原文；来源数据 MIT（JackeyGao，2016）",
+    "tags": [
+      "summer"
+    ]
+  },
+  {
+    "text": "夏日舊來長，佳遊何易暮。——皎然",
+    "author": "皎然",
+    "work": "惜暮景",
+    "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E5%85%A8%E5%94%90%E8%AF%97/poet.tang.45000.json",
+    "rights": "古典原文；来源数据 MIT（JackeyGao，2016）",
+    "tags": [
+      "summer"
+    ]
+  },
+  {
+    "text": "数朵芙蕖，嫣然一笑凌清晓。——汪莘",
+    "author": "汪莘",
+    "work": "点绛唇",
+    "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E5%AE%8B%E8%AF%8D/ci.song.12000.json",
+    "rights": "古典原文；来源数据 MIT（JackeyGao，2016）",
+    "tags": [
+      "summer"
+    ]
+  },
+  {
+    "text": "魚傾荷葉露，蟬噪柳林風。——許渾",
+    "author": "許渾",
+    "work": "泛五雲溪",
+    "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E5%85%A8%E5%94%90%E8%AF%97/poet.tang.29000.json",
+    "rights": "古典原文；来源数据 MIT（JackeyGao，2016）",
+    "tags": [
+      "summer"
+    ]
+  },
+  {
+    "text": "峰峰寒列簇芙蕖，靜想嵩陽秀不如。——繆島雲",
+    "author": "繆島雲",
+    "work": "望黃山諸峯",
+    "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E5%85%A8%E5%94%90%E8%AF%97/poet.tang.50000.json",
+    "rights": "古典原文；来源数据 MIT（JackeyGao，2016）",
+    "tags": [
+      "summer"
+    ]
+  },
+  {
+    "text": "竹粉翻新箨，荷花拭靓妆。——程垓",
+    "author": "程垓",
+    "work": "望秦川・南歌子",
+    "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E5%AE%8B%E8%AF%8D/ci.song.11000.json",
+    "rights": "古典原文；来源数据 MIT（JackeyGao，2016）",
+    "tags": [
+      "summer"
+    ]
+  },
+  {
+    "text": "欸乃渔歌，深入荷花去。——倪偁",
+    "author": "倪偁",
+    "work": "蝶恋花",
+    "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E5%AE%8B%E8%AF%8D/ci.song.8000.json",
+    "rights": "古典原文；来源数据 MIT（JackeyGao，2016）",
+    "tags": [
+      "summer"
+    ]
+  },
+  {
+    "text": "夏雲隨北帆，同日過江來。——張說",
+    "author": "張說",
+    "work": "四月一日過江赴荆州",
+    "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E5%85%A8%E5%94%90%E8%AF%97/poet.tang.4000.json",
+    "rights": "古典原文；来源数据 MIT（JackeyGao，2016）",
+    "tags": [
+      "summer"
+    ]
+  },
+  {
+    "text": "採蓮朅來水無風，蓮潭如鑑松如龍。——鮑溶",
+    "author": "鮑溶",
+    "work": "採蓮曲二首 二",
+    "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E5%85%A8%E5%94%90%E8%AF%97/poet.tang.26000.json",
+    "rights": "古典原文；来源数据 MIT（JackeyGao，2016）",
+    "tags": [
+      "summer"
+    ]
+  },
+  {
+    "text": "嫩荷花裏搖船去，一陣香風逐水來。——花蕊夫人徐氏",
+    "author": "花蕊夫人徐氏",
+    "work": "宮詞 一百九",
+    "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E5%85%A8%E5%94%90%E8%AF%97/poet.tang.43000.json",
+    "rights": "古典原文；来源数据 MIT（JackeyGao，2016）",
+    "tags": [
+      "summer"
+    ]
+  },
+  {
+    "text": "魚戲蓮葉北，澄陽動微漣。——陸龜蒙",
+    "author": "陸龜蒙",
+    "work": "相和歌辭 江南曲 五",
+    "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E5%85%A8%E5%94%90%E8%AF%97/poet.tang.1000.json",
+    "rights": "古典原文；来源数据 MIT（JackeyGao，2016）",
+    "tags": [
+      "summer"
+    ]
+  },
+  {
+    "text": "色濃春草在，峰起夏雲歸。——皎然",
+    "author": "皎然",
+    "work": "夏日同崔使君論登城樓賦得遠山",
+    "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E5%85%A8%E5%94%90%E8%AF%97/poet.tang.45000.json",
+    "rights": "古典原文；来源数据 MIT（JackeyGao，2016）",
+    "tags": [
+      "summer"
+    ]
+  },
+  {
+    "text": "獨占芳菲當夏景，不將顏色託春風。——白居易",
+    "author": "白居易",
+    "work": "紫薇花",
+    "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E5%85%A8%E5%94%90%E8%AF%97/poet.tang.23000.json",
+    "rights": "古典原文；来源数据 MIT（JackeyGao，2016）",
+    "tags": [
+      "spring",
+      "summer"
+    ]
+  },
+  {
+    "text": "魚網平鋪荷葉，鷺鷥閑步稻苗。——李嘉祐",
+    "author": "李嘉祐",
+    "work": "白田西憶楚州使君弟",
+    "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E5%85%A8%E5%94%90%E8%AF%97/poet.tang.10000.json",
+    "rights": "古典原文；来源数据 MIT（JackeyGao，2016）",
+    "tags": [
+      "summer"
+    ]
+  },
+  {
+    "text": "繁杏新荷春夏景，疏梅细菊秋冬约。——吕胜己",
+    "author": "吕胜己",
+    "work": "满江红",
+    "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E5%AE%8B%E8%AF%8D/ci.song.10000.json",
+    "rights": "古典原文；来源数据 MIT（JackeyGao，2016）",
+    "tags": [
+      "summer"
+    ]
+  },
+  {
+    "text": "湛露宜清暑，披香正滿軒。——羊士諤",
+    "author": "羊士諤",
+    "work": "南池荷花",
+    "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E5%85%A8%E5%94%90%E8%AF%97/poet.tang.17000.json",
+    "rights": "古典原文；来源数据 MIT（JackeyGao，2016）",
+    "tags": [
+      "summer"
+    ]
+  },
+  {
+    "text": "荷葉罩芙蓉，圓青映嫩紅。——曹脩古",
+    "author": "曹脩古",
+    "work": "池上",
+    "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E5%85%A8%E5%94%90%E8%AF%97/poet.tang.42000.json",
+    "rights": "古典原文；来源数据 MIT（JackeyGao，2016）",
+    "tags": [
+      "summer"
+    ]
+  },
+  {
+    "text": "座納薰風細，簾垂白日長。——戴叔倫",
+    "author": "戴叔倫",
+    "work": "南軒",
+    "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E5%85%A8%E5%94%90%E8%AF%97/poet.tang.14000.json",
+    "rights": "古典原文；来源数据 MIT（JackeyGao，2016）",
+    "tags": [
+      "summer"
+    ]
+  },
+  {
+    "text": "舊溪紅蘚在，秋水綠痕生。——楊巨源",
+    "author": "楊巨源",
+    "work": "秋日韋少府廳池上詠石",
+    "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E5%85%A8%E5%94%90%E8%AF%97/poet.tang.17000.json",
+    "rights": "古典原文；来源数据 MIT（JackeyGao，2016）",
+    "tags": [
+      "autumn"
+    ]
+  },
+  {
+    "text": "夕照留山館，秋光落草田。——李嘉祐",
+    "author": "李嘉祐",
+    "work": "句容縣東青陽館作",
+    "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E5%85%A8%E5%94%90%E8%AF%97/poet.tang.10000.json",
+    "rights": "古典原文；来源数据 MIT（JackeyGao，2016）",
+    "tags": [
+      "autumn"
+    ]
+  },
+  {
+    "text": "與爾期此亭，期在秋月滿。——李白",
+    "author": "李白",
+    "work": "尋陽送弟昌峒鄱陽司馬作",
+    "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E5%85%A8%E5%94%90%E8%AF%97/poet.tang.8000.json",
+    "rights": "古典原文；来源数据 MIT（JackeyGao，2016）",
+    "tags": [
+      "autumn"
+    ]
+  },
+  {
+    "text": "飄蕩雲海深，相思桂花白。——羊士諤",
+    "author": "羊士諤",
+    "work": "九月十日郡樓獨酌",
+    "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E5%85%A8%E5%94%90%E8%AF%97/poet.tang.17000.json",
+    "rights": "古典原文；来源数据 MIT（JackeyGao，2016）",
+    "tags": [
+      "autumn"
+    ]
+  },
+  {
+    "text": "桂花如入手，願作從遊人。——鄭谷",
+    "author": "鄭谷",
+    "work": "乾符丙申歲奉試春漲曲江池",
+    "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E5%85%A8%E5%94%90%E8%AF%97/poet.tang.37000.json",
+    "rights": "古典原文；来源数据 MIT（JackeyGao，2016）",
+    "tags": [
+      "autumn"
+    ]
+  },
+  {
+    "text": "弄玉已歸蕭史去，碧樓紅樹倚斜陽。——趙嘏",
+    "author": "趙嘏",
+    "work": "經王先生故居",
+    "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E5%85%A8%E5%94%90%E8%AF%97/poet.tang.30000.json",
+    "rights": "古典原文；来源数据 MIT（JackeyGao，2016）",
+    "tags": [
+      "autumn"
+    ]
+  },
+  {
+    "text": "秋色池館靜，雨聲雲木涼。——杜牧",
+    "author": "杜牧",
+    "work": "過鮑溶宅有感",
+    "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E5%85%A8%E5%94%90%E8%AF%97/poet.tang.28000.json",
+    "rights": "古典原文；来源数据 MIT（JackeyGao，2016）",
+    "tags": [
+      "autumn"
+    ]
+  },
+  {
+    "text": "秋色有佳興，況君池上閑。——王維",
+    "author": "王維",
+    "work": "崔濮陽兄季重前山興",
+    "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E5%85%A8%E5%94%90%E8%AF%97/poet.tang.5000.json",
+    "rights": "古典原文；来源数据 MIT（JackeyGao，2016）",
+    "tags": [
+      "autumn"
+    ]
+  },
+  {
+    "text": "好傍翠樓裝月色，枉隨紅葉舞秋聲。——羅鄴",
+    "author": "羅鄴",
+    "work": "蘆花",
+    "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E5%85%A8%E5%94%90%E8%AF%97/poet.tang.36000.json",
+    "rights": "古典原文；来源数据 MIT（JackeyGao，2016）",
+    "tags": [
+      "autumn"
+    ]
+  },
+  {
+    "text": "謝公秋思渺天涯，蠟屐登高爲菊花。——令狐楚",
+    "author": "令狐楚",
+    "work": "奉和嚴司空重陽日同崔常侍崔郎及諸公登龍山落帽臺佳宴",
+    "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E5%85%A8%E5%94%90%E8%AF%97/poet.tang.17000.json",
+    "rights": "古典原文；来源数据 MIT（JackeyGao，2016）",
+    "tags": [
+      "autumn"
+    ]
+  },
+  {
+    "text": "秋水蓮花三四枝，我來慷慨步遲遲。——來鵠",
+    "author": "來鵠",
+    "work": "古劒池",
+    "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E5%85%A8%E5%94%90%E8%AF%97/poet.tang.35000.json",
+    "rights": "古典原文；来源数据 MIT（JackeyGao，2016）",
+    "tags": [
+      "autumn"
+    ]
+  },
+  {
+    "text": "乾坤爽氣滿，臺殿秋光清。——德宗皇帝",
+    "author": "德宗皇帝",
+    "work": "重陽日賜宴曲江亭賦六韻詩用清字",
+    "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E5%85%A8%E5%94%90%E8%AF%97/poet.tang.0.json",
+    "rights": "古典原文；来源数据 MIT（JackeyGao，2016）",
+    "tags": [
+      "autumn"
+    ]
+  },
+  {
+    "text": "津亭折柳，正秋光如画。——刘埙",
+    "author": "刘埙",
+    "work": "洞仙歌",
+    "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E5%AE%8B%E8%AF%8D/ci.song.17000.json",
+    "rights": "古典原文；来源数据 MIT（JackeyGao，2016）",
+    "tags": [
+      "autumn"
+    ]
+  },
+  {
+    "text": "鐘聲催野飯，秋色落寒潮。——馬戴",
+    "author": "馬戴",
+    "work": "送僧歸閩中舊寺",
+    "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E5%85%A8%E5%94%90%E8%AF%97/poet.tang.30000.json",
+    "rights": "古典原文；来源数据 MIT（JackeyGao，2016）",
+    "tags": [
+      "autumn"
+    ]
+  },
+  {
+    "text": "碧雲蕭寺霽，紅樹謝邨秋。——司空圖",
+    "author": "司空圖",
+    "work": "寄永嘉崔道融",
+    "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E5%85%A8%E5%94%90%E8%AF%97/poet.tang.34000.json",
+    "rights": "古典原文；来源数据 MIT（JackeyGao，2016）",
+    "tags": [
+      "autumn"
+    ]
+  },
+  {
+    "text": "江畔楓葉初帶霜，渚邊菊花亦已黃。——賈至",
+    "author": "賈至",
+    "work": "初至巴陵與李十二白裴九同泛洞庭湖三首 三",
+    "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E5%85%A8%E5%94%90%E8%AF%97/poet.tang.12000.json",
+    "rights": "古典原文；来源数据 MIT（JackeyGao，2016）",
+    "tags": [
+      "autumn"
+    ]
+  },
+  {
+    "text": "陶令南行心自永，江天極目澄秋景。——錢起",
+    "author": "錢起",
+    "work": "送馬明府赴江陵",
+    "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E5%85%A8%E5%94%90%E8%AF%97/poet.tang.12000.json",
+    "rights": "古典原文；来源数据 MIT（JackeyGao，2016）",
+    "tags": [
+      "autumn"
+    ]
+  },
+  {
+    "text": "山亭秋色滿，巖牖涼風度。——太宗皇帝",
+    "author": "太宗皇帝",
+    "work": "山閣晚秋",
+    "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E5%85%A8%E5%94%90%E8%AF%97/poet.tang.0.json",
+    "rights": "古典原文；来源数据 MIT（JackeyGao，2016）",
+    "tags": [
+      "autumn"
+    ]
+  },
+  {
+    "text": "夜深吹笛移船去，三十六灣秋月明。——許渾",
+    "author": "許渾",
+    "work": "三十六灣",
+    "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E5%85%A8%E5%94%90%E8%AF%97/poet.tang.29000.json",
+    "rights": "古典原文；来源数据 MIT（JackeyGao，2016）",
+    "tags": [
+      "autumn"
+    ]
+  },
+  {
+    "text": "问甚时同赋，三十六陂秋色。——姜夔",
+    "author": "姜夔",
+    "work": "惜红衣",
+    "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E5%AE%8B%E8%AF%8D/ci.song.12000.json",
+    "rights": "古典原文；来源数据 MIT（JackeyGao，2016）",
+    "tags": [
+      "autumn"
+    ]
+  },
+  {
+    "text": "百川灌彭蠡，秋水方浩浩。——吳筠",
+    "author": "吳筠",
+    "work": "登廬山東峰觀九江合彭蠡湖",
+    "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E5%85%A8%E5%94%90%E8%AF%97/poet.tang.47000.json",
+    "rights": "古典原文；来源数据 MIT（JackeyGao，2016）",
+    "tags": [
+      "autumn"
+    ]
+  },
+  {
+    "text": "今日俄重九，莫负菊花开。——韩元吉",
+    "author": "韩元吉",
+    "work": "水调歌头",
+    "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E5%AE%8B%E8%AF%8D/ci.song.8000.json",
+    "rights": "古典原文；来源数据 MIT（JackeyGao，2016）",
+    "tags": [
+      "autumn"
+    ]
+  },
+  {
+    "text": "夜村機杼急，秋水芰荷深。——盧綸",
+    "author": "盧綸",
+    "work": "陪中書李紓舍人夜泛東池",
+    "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E5%85%A8%E5%94%90%E8%AF%97/poet.tang.14000.json",
+    "rights": "古典原文；来源数据 MIT（JackeyGao，2016）",
+    "tags": [
+      "autumn"
+    ]
+  },
+  {
+    "text": "門戶饒秋景，兒童解冷吟。——姚合",
+    "author": "姚合",
+    "work": "寄國子楊巨源祭酒",
+    "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E5%85%A8%E5%94%90%E8%AF%97/poet.tang.26000.json",
+    "rights": "古典原文；来源数据 MIT（JackeyGao，2016）",
+    "tags": [
+      "autumn"
+    ]
+  },
+  {
+    "text": "碧潭宵見月，紅樹晚開花。——宋鼎",
+    "author": "宋鼎",
+    "work": "酬故人還山",
+    "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E5%85%A8%E5%94%90%E8%AF%97/poet.tang.5000.json",
+    "rights": "古典原文；来源数据 MIT（JackeyGao，2016）",
+    "tags": [
+      "autumn"
+    ]
+  },
+  {
+    "text": "溥露浸秋色，零雨濯湖弦。——魏了翁",
+    "author": "魏了翁",
+    "work": "水调歌头",
+    "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E5%AE%8B%E8%AF%8D/ci.song.13000.json",
+    "rights": "古典原文；来源数据 MIT（JackeyGao，2016）",
+    "tags": [
+      "autumn"
+    ]
+  },
+  {
+    "text": "寄语寒梅休放尽，留取三花两蕊。——吴潜",
+    "author": "吴潜",
+    "work": "贺新郎",
+    "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E5%AE%8B%E8%AF%8D/ci.song.15000.json",
+    "rights": "古典原文；来源数据 MIT（JackeyGao，2016）",
+    "tags": [
+      "winter"
+    ]
+  },
+  {
+    "text": "雪尽玉容开遍，东风不管寒梅。——叶梦得",
+    "author": "叶梦得",
+    "work": "清平乐",
+    "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E5%AE%8B%E8%AF%8D/ci.song.5000.json",
+    "rights": "古典原文；来源数据 MIT（JackeyGao，2016）",
+    "tags": [
+      "winter"
+    ]
+  },
+  {
+    "text": "梅花满眼，一朵聊当一千秋。——王质",
+    "author": "王质",
+    "work": "水调歌头",
+    "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E5%AE%8B%E8%AF%8D/ci.song.10000.json",
+    "rights": "古典原文；来源数据 MIT（JackeyGao，2016）",
+    "tags": [
+      "winter"
+    ]
+  },
+  {
+    "text": "超然坐久，幽径试寻寒梅。——曹勋",
+    "author": "曹勋",
+    "work": "法曲入破第三・法曲",
+    "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E5%AE%8B%E8%AF%8D/ci.song.7000.json",
+    "rights": "古典原文；来源数据 MIT（JackeyGao，2016）",
+    "tags": [
+      "winter"
+    ]
+  },
+  {
+    "text": "一樹寒梅白玉條，逈臨林村傍谿橋。——張謂",
+    "author": "張謂",
+    "work": "早梅",
+    "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E5%85%A8%E5%94%90%E8%AF%97/poet.tang.9000.json",
+    "rights": "古典原文；来源数据 MIT（JackeyGao，2016）",
+    "tags": [
+      "winter"
+    ]
+  },
+  {
+    "text": "邨梅尚斂風前笑，沙草初偷雪後春。——李羣玉",
+    "author": "李羣玉",
+    "work": "送人隱居",
+    "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E5%85%A8%E5%94%90%E8%AF%97/poet.tang.31000.json",
+    "rights": "古典原文；来源数据 MIT（JackeyGao，2016）",
+    "tags": [
+      "winter"
+    ]
+  },
+  {
+    "text": "從今尅己應猶及，顏與梅花俱自新。——盧仝",
+    "author": "盧仝",
+    "work": "人日立春",
+    "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E5%85%A8%E5%94%90%E8%AF%97/poet.tang.20000.json",
+    "rights": "古典原文；来源数据 MIT（JackeyGao，2016）",
+    "tags": [
+      "winter"
+    ]
+  },
+  {
+    "text": "寒風金磬遠，晴雪玉樓重。——許渾",
+    "author": "許渾",
+    "work": "冬日宣城開元寺贈元孚上人",
+    "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E5%85%A8%E5%94%90%E8%AF%97/poet.tang.29000.json",
+    "rights": "古典原文；来源数据 MIT（JackeyGao，2016）",
+    "tags": [
+      "winter"
+    ]
+  },
+  {
+    "text": "廣陌萬人生喜色，曲江千樹發寒梅。——劉滄",
+    "author": "劉滄",
+    "work": "看牓日",
+    "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E5%85%A8%E5%94%90%E8%AF%97/poet.tang.32000.json",
+    "rights": "古典原文；来源数据 MIT（JackeyGao，2016）",
+    "tags": [
+      "winter"
+    ]
+  },
+  {
+    "text": "更翦翦梅花，落云阶月地。——赵以夫",
+    "author": "赵以夫",
+    "work": "徵招",
+    "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E5%AE%8B%E8%AF%8D/ci.song.14000.json",
+    "rights": "古典原文；来源数据 MIT（JackeyGao，2016）",
+    "tags": [
+      "winter"
+    ]
+  },
+  {
+    "text": "梅花似雪柳含煙，南地風光臘月前。——韋同則",
+    "author": "韋同則",
+    "work": "仲月賞花",
+    "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E5%85%A8%E5%94%90%E8%AF%97/poet.tang.16000.json",
+    "rights": "古典原文；来源数据 MIT（JackeyGao，2016）",
+    "tags": [
+      "winter"
+    ]
+  },
+  {
+    "text": "坐对梅花笑，还记初度年时。——赵文",
+    "author": "赵文",
+    "work": "塞翁吟",
+    "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E5%AE%8B%E8%AF%8D/ci.song.17000.json",
+    "rights": "古典原文；来源数据 MIT（JackeyGao，2016）",
+    "tags": [
+      "winter"
+    ]
+  },
+  {
+    "text": "去鴈聲遙人語絕，誰家素機織新雪。——施肩吾",
+    "author": "施肩吾",
+    "work": "秋夜山居二首 二",
+    "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E5%85%A8%E5%94%90%E8%AF%97/poet.tang.26000.json",
+    "rights": "古典原文；来源数据 MIT（JackeyGao，2016）",
+    "tags": [
+      "winter"
+    ]
+  },
+  {
+    "text": "鬬雪梅先吐，驚風柳未舒。——上官昭容",
+    "author": "上官昭容",
+    "work": "遊長寧公主流杯池二十五首 九",
+    "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E5%85%A8%E5%94%90%E8%AF%97/poet.tang.0.json",
+    "rights": "古典原文；来源数据 MIT（JackeyGao，2016）",
+    "tags": [
+      "winter"
+    ]
+  },
+  {
+    "text": "雪晴看鶴去，海夜與龍期。——司空曙",
+    "author": "司空曙",
+    "work": "寄天台秀師",
+    "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E5%85%A8%E5%94%90%E8%AF%97/poet.tang.15000.json",
+    "rights": "古典原文；来源数据 MIT（JackeyGao，2016）",
+    "tags": [
+      "winter"
+    ]
+  },
+  {
+    "text": "細韻風中遠，寒青雪後濃。——徐鉉",
+    "author": "徐鉉",
+    "work": "北苑侍宴雜詠詩 松",
+    "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E5%85%A8%E5%94%90%E8%AF%97/poet.tang.42000.json",
+    "rights": "古典原文；来源数据 MIT（JackeyGao，2016）",
+    "tags": [
+      "winter"
+    ]
+  },
+  {
+    "text": "杲杲冬日出，照我屋南隅。——白居易",
+    "author": "白居易",
+    "work": "負冬日",
+    "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E5%85%A8%E5%94%90%E8%AF%97/poet.tang.22000.json",
+    "rights": "古典原文；来源数据 MIT（JackeyGao，2016）",
+    "tags": [
+      "winter"
+    ]
+  },
+  {
+    "text": "山樹落梅花，飛落野人家。——劉希夷",
+    "author": "劉希夷",
+    "work": "春日行歌",
+    "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E5%85%A8%E5%94%90%E8%AF%97/poet.tang.4000.json",
+    "rights": "古典原文；来源数据 MIT（JackeyGao，2016）",
+    "tags": [
+      "winter"
+    ]
+  },
+  {
+    "text": "上苑梅花早，御溝楊柳新。——駱賓王",
+    "author": "駱賓王",
+    "work": "西行別東臺詳正學士",
+    "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E5%85%A8%E5%94%90%E8%AF%97/poet.tang.4000.json",
+    "rights": "古典原文；来源数据 MIT（JackeyGao，2016）",
+    "tags": [
+      "winter"
+    ]
+  },
+  {
+    "text": "春到园中，见寒梅同春雪乱飞。——沈瀛",
+    "author": "沈瀛",
+    "work": "野庵曲",
+    "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E5%AE%8B%E8%AF%8D/ci.song.10000.json",
+    "rights": "古典原文；来源数据 MIT（JackeyGao，2016）",
+    "tags": [
+      "winter"
+    ]
+  },
+  {
+    "text": "芸細書中氣，松疎雪後陰。——李頻",
+    "author": "李頻",
+    "work": "冬夜和范秘書宿秘省中作",
+    "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E5%85%A8%E5%94%90%E8%AF%97/poet.tang.32000.json",
+    "rights": "古典原文；来源数据 MIT（JackeyGao，2016）",
+    "tags": [
+      "winter"
+    ]
+  },
+  {
+    "text": "柳色迎三月，梅花隔二年。——李百藥",
+    "author": "李百藥",
+    "work": "奉和初春出遊應令",
+    "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E5%85%A8%E5%94%90%E8%AF%97/poet.tang.2000.json",
+    "rights": "古典原文；来源数据 MIT（JackeyGao，2016）",
+    "tags": [
+      "winter"
+    ]
+  },
+  {
+    "text": "未臘梅先實，經冬草自薰。——許渾",
+    "author": "許渾",
+    "work": "歲暮自廣江至新興往復中題峽山寺四首 一",
+    "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E5%85%A8%E5%94%90%E8%AF%97/poet.tang.29000.json",
+    "rights": "古典原文；来源数据 MIT（JackeyGao，2016）",
+    "tags": [
+      "winter"
+    ]
+  },
+  {
+    "text": "北風微雪後，晚景有雲時。——陳季卿",
+    "author": "陳季卿",
+    "work": "別兄弟",
+    "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E5%85%A8%E5%94%90%E8%AF%97/poet.tang.48000.json",
+    "rights": "古典原文；来源数据 MIT（JackeyGao，2016）",
+    "tags": [
+      "winter"
+    ]
+  },
+  {
+    "text": "借問梅花何處落，風吹一夜滿關山。——宋濟",
+    "author": "宋濟",
+    "work": "塞上聞笛",
+    "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E5%85%A8%E5%94%90%E8%AF%97/poet.tang.25000.json",
+    "rights": "古典原文；来源数据 MIT（JackeyGao，2016）",
+    "tags": [
+      "winter"
+    ]
+  },
+  {
+    "text": "盡說青雲路，有足皆可至。——孟郊",
+    "author": "孟郊",
+    "work": "長安旅情",
+    "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E5%85%A8%E5%94%90%E8%AF%97/poet.tang.19000.json",
+    "rights": "古典原文；来源数据 MIT（JackeyGao，2016）",
+    "tags": [
+      "uplifting"
+    ]
+  },
+  {
+    "text": "行衝赤日加餐飯，上到青雲穩著鞭。——白居易",
+    "author": "白居易",
+    "work": "送敏中新授戶部員外郎西歸",
+    "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E5%85%A8%E5%94%90%E8%AF%97/poet.tang.24000.json",
+    "rights": "古典原文；来源数据 MIT（JackeyGao，2016）",
+    "tags": [
+      "uplifting"
+    ]
+  },
+  {
+    "text": "靜想青雲路，還應寄此身。——張喬",
+    "author": "張喬",
+    "work": "別李參軍",
+    "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E5%85%A8%E5%94%90%E8%AF%97/poet.tang.35000.json",
+    "rights": "古典原文；来源数据 MIT（JackeyGao，2016）",
+    "tags": [
+      "uplifting"
+    ]
+  },
+  {
+    "text": "激昂丹墀下，顧盼青雲端。——高適",
+    "author": "高適",
+    "work": "東平留贈狄司馬",
+    "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E5%85%A8%E5%94%90%E8%AF%97/poet.tang.10000.json",
+    "rights": "古典原文；来源数据 MIT（JackeyGao，2016）",
+    "tags": [
+      "uplifting"
+    ]
+  },
+  {
+    "text": "霽來還有風流事，重染南山一遍青。——章謁",
+    "author": "章謁",
+    "work": "雨",
+    "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E5%85%A8%E5%94%90%E8%AF%97/poet.tang.37000.json",
+    "rights": "古典原文；来源数据 MIT（JackeyGao，2016）",
+    "tags": [
+      "uplifting"
+    ]
+  },
+  {
+    "text": "田夫俱喜悅，四海盡風流。——杜光庭",
+    "author": "杜光庭",
+    "work": "六十甲子歌（題擬） 四十七",
+    "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E5%85%A8%E5%94%90%E8%AF%97/poet.tang.56000.json",
+    "rights": "古典原文；来源数据 MIT（JackeyGao，2016）",
+    "tags": [
+      "uplifting"
+    ]
+  },
+  {
+    "text": "從容朝課畢，方與客相見。——白居易",
+    "author": "白居易",
+    "work": "朝課",
+    "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E5%85%A8%E5%94%90%E8%AF%97/poet.tang.23000.json",
+    "rights": "古典原文；来源数据 MIT（JackeyGao，2016）",
+    "tags": [
+      "uplifting"
+    ]
+  },
+  {
+    "text": "一忝青雲客，三登黃鶴樓。——李白",
+    "author": "李白",
+    "work": "經亂離後天恩流夜郎憶舊遊書懷贈江夏韋太守良宰",
+    "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E5%85%A8%E5%94%90%E8%AF%97/poet.tang.8000.json",
+    "rights": "古典原文；来源数据 MIT（JackeyGao，2016）",
+    "tags": [
+      "uplifting"
+    ]
+  },
+  {
+    "text": "德風流海外，和氣滿人寰。——柳宗元",
+    "author": "柳宗元",
+    "work": "酬韶州裴曹長使君寄道州呂八大使以見示二十韻一首",
+    "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E5%85%A8%E5%94%90%E8%AF%97/poet.tang.18000.json",
+    "rights": "古典原文；来源数据 MIT（JackeyGao，2016）",
+    "tags": [
+      "uplifting"
+    ]
+  },
+  {
+    "text": "稻粱且足身兼健，何必青雲與白雲。——羅隱",
+    "author": "羅隱",
+    "work": "病中題主人庭鶴",
+    "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E5%85%A8%E5%94%90%E8%AF%97/poet.tang.36000.json",
+    "rights": "古典原文；来源数据 MIT（JackeyGao，2016）",
+    "tags": [
+      "uplifting"
+    ]
+  },
+  {
+    "text": "南陵直上路盤盤，平地凌雲勢萬端。——王周",
+    "author": "王周",
+    "work": "巫山公署壁有無名氏戲書二韻",
+    "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E5%85%A8%E5%94%90%E8%AF%97/poet.tang.42000.json",
+    "rights": "古典原文；来源数据 MIT（JackeyGao，2016）",
+    "tags": [
+      "uplifting"
+    ]
+  },
+  {
+    "text": "端居任僚屬，宴語常從容。——張籍",
+    "author": "張籍",
+    "work": "董公詩",
+    "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E5%85%A8%E5%94%90%E8%AF%97/poet.tang.20000.json",
+    "rights": "古典原文；来源数据 MIT（JackeyGao，2016）",
+    "tags": [
+      "uplifting"
+    ]
+  },
+  {
+    "text": "道同無宿約，三伏自從容。——姚合",
+    "author": "姚合",
+    "work": "謝秦校書與無可上人見訪",
+    "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E5%85%A8%E5%94%90%E8%AF%97/poet.tang.26000.json",
+    "rights": "古典原文；来源数据 MIT（JackeyGao，2016）",
+    "tags": [
+      "uplifting"
+    ]
+  },
+  {
+    "text": "流水不腐，戶樞不蠹。",
+    "author": "呂氏春秋",
+    "work": "盡數",
+    "source": "https://ctext.org/text.pl?if=gb&node=23196&show=parallel",
+    "rights": "古典原文（公版）。",
+    "tags": [
+      "health"
+    ]
+  },
+  {
+    "text": "不積跬步，無以至千里。",
+    "author": "荀子",
+    "work": "勸學",
+    "source": "https://zh.wikisource.org/zh-hant/%E5%8A%9D%E5%AD%A6",
+    "rights": "古典原文（公版）。",
+    "tags": [
+      "life"
+    ]
+  },
+  {
+    "text": "學而時習之，不亦說乎？",
+    "author": "論語",
+    "work": "學而",
+    "source": "https://zh.wikisource.org/wiki/論語/學而第一",
+    "rights": "古典原文（公版）。",
+    "tags": [
+      "life"
+    ]
+  },
+  {
+    "text": "走慢一點，也是在往前走。",
+    "author": "JianjiBox",
+    "work": "Today phrases",
+    "source": "https://github.com/maxplane/JianjiBox-today-phrases",
+    "rights": "Original editorial text by JianjiBox.",
+    "tags": [
+      "life"
+    ]
+  },
+  {
+    "text": "休息，也是一件值得安排的事。",
+    "author": "JianjiBox",
+    "work": "Today phrases",
+    "source": "https://github.com/maxplane/JianjiBox-today-phrases",
+    "rights": "Original editorial text by JianjiBox.",
+    "tags": [
+      "health"
+    ]
+  },
+  {
+    "text": "給忙碌的一天，留一點安靜。",
+    "author": "JianjiBox",
+    "work": "Today phrases",
+    "source": "https://github.com/maxplane/JianjiBox-today-phrases",
+    "rights": "Original editorial text by JianjiBox.",
+    "tags": [
+      "health"
+    ]
+  }
+]

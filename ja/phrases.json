@@ -1,0 +1,103 @@
+[
+  {
+    "text": "古池や蛙飛び込む水の音",
+    "author": "松尾芭蕉",
+    "work": "古池の句",
+    "source": "https://www.aozora.gr.jp/cards/001310/files/55509_53180.html",
+    "rights": "古典俳句の原文。松尾芭蕉は1694年没。",
+    "tags": [
+      "spring"
+    ]
+  },
+  {
+    "text": "閑さや岩にしみ入る蝉の声",
+    "author": "松尾芭蕉",
+    "work": "おくのほそ道",
+    "source": "https://crd.ndl.go.jp/reference/detail?page=ref_view&id=1000310770",
+    "rights": "1689年の古典俳句。松尾芭蕉は1694年没。",
+    "tags": [
+      "summer"
+    ]
+  },
+  {
+    "text": "秋ふかき隣は何をする人ぞ",
+    "author": "松尾芭蕉",
+    "work": "秋ふかきの句",
+    "source": "https://www.aozora.gr.jp/cards/000067/files/47566_44414.html",
+    "rights": "古典俳句の原文のみ。松尾芭蕉は1694年没。",
+    "tags": [
+      "autumn"
+    ]
+  },
+  {
+    "text": "狂句こがらしの身は竹斎に似たるかな",
+    "author": "松尾芭蕉",
+    "work": "野ざらし紀行",
+    "source": "https://www.aozora.gr.jp/cards/001310/files/55609_53062.html",
+    "rights": "古典俳句の原文。松尾芭蕉は1694年没。",
+    "tags": [
+      "winter",
+      "weather:wind"
+    ]
+  },
+  {
+    "text": "ひと息つくのも、今日のうち。",
+    "author": "JianjiBox",
+    "work": "Today phrases",
+    "source": "https://github.com/maxplane/JianjiBox-today-phrases",
+    "rights": "Original editorial text by JianjiBox.",
+    "tags": [
+      "health"
+    ]
+  },
+  {
+    "text": "休む日があっても、歩みは続く。",
+    "author": "JianjiBox",
+    "work": "Today phrases",
+    "source": "https://github.com/maxplane/JianjiBox-today-phrases",
+    "rights": "Original editorial text by JianjiBox.",
+    "tags": [
+      "health"
+    ]
+  },
+  {
+    "text": "できたことを、ひとつ数えてみる。",
+    "author": "JianjiBox",
+    "work": "Today phrases",
+    "source": "https://github.com/maxplane/JianjiBox-today-phrases",
+    "rights": "Original editorial text by JianjiBox.",
+    "tags": [
+      "life"
+    ]
+  },
+  {
+    "text": "予防は治療に勝る。",
+    "author": "作者不詳",
+    "work": "日本語の格言",
+    "source": "https://fujifilm-kenpo.or.jp/news3/chiebukuro_20210412/",
+    "rights": "一般に使われる短い格言。個人への著者帰属なし。",
+    "tags": [
+      "health"
+    ]
+  },
+  {
+    "text": "急がば回れ。",
+    "author": "作者不詳",
+    "work": "日本語の格言",
+    "source": "https://www.mext.go.jp/content/20230420-mxt_kyousei02-000021014_22.pdf",
+    "rights": "一般に使われる短い格言。個人への著者帰属なし。",
+    "tags": [
+      "life"
+    ]
+  },
+  {
+    "text": "継続は力なり。",
+    "author": "作者不詳",
+    "work": "日本語の格言",
+    "source": "https://www.mext.go.jp/content/20230420-mxt_kyousei02-000021014_22.pdf",
+    "rights": "一般に使われる短い格言。個人への著者帰属なし。",
+    "tags": [
+      "life"
+    ]
+  }
+]
